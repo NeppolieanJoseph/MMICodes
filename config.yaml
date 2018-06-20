@@ -1,0 +1,10 @@
+workspace : C:\Users\neppoliean.joseph\Downloads\REXS_Standalone_master_a98df2c_20180516
+cathome : C:\Program Files\Apache Software Foundation\Tomcat 8.5
+dbserver : sql_server
+tomcat_server : Tomcat8
+artifacts :
+    - rmts
+    - ruleexecutor
+db_names :
+    - rmts_db
+    - rule_ex_db
