@@ -19,7 +19,7 @@ def ui_page():
 	global CheckVar1
 	window = Tk()
 	window.wm_iconbitmap('motive.ico')
-	CheckVar1 = IntVar()
+	CheckVar1 = IntVar(value=1)
 	window.title("Welcome to REXS installation")
 	window.resizable(0,0)
 	window.resizable(width=FALSE, height=FALSE)
@@ -49,7 +49,7 @@ def ui_page():
 		window.columnconfigure(rows, weight=1)
 		rows += 1
 	lbl = Label(window,font=Font(family="Times New Roman", size=14), text="Please enter the following values", bg='grey')
-	lbl.place(x=50,y=0,width=510,height=30)
+	lbl.place(x=50,y=10,width=510,height=30)
 	lbl = Label(window,font=Font(family="Times New Roman", size=12), text="Application base URL", bg='grey')
 	lbl.grid(column=0, row=2, sticky="w")
 	lbl = Label(window,font=Font(family="Times New Roman", size=12), text="Database URL", bg='grey')
@@ -103,10 +103,7 @@ def ui_page():
 		result=tkMessageBox.askyesno("REXS Installation","Would you like to save the data and continue?")
 		if result == True:
 			data=db_engine.split(":")
-			if data[0] == 'mysql':
-				window.destroy()
-				return rmts_url, db_engine, db_user, db_pass, log_location, data[0]
-			elif data[0] == 'sqlserver':
+			if data[0] == 'mysql' or data[0] == 'sqlserver':
 				window.destroy()
 				return rmts_url, db_engine, db_user, db_pass, log_location, data[0]
 			else:
@@ -134,16 +131,16 @@ def ui_page():
 		exit()
 		
 	btn = Button(window, bg='grey',text="Install", command=login)
-	btn.grid(column=0, row=13)
-	btn.place(x=434,y=425,width=80,height=30)
+	btn.place(x=369,y=460,width=100,height=30)
 	btn = Button(window, bg='grey',text="Cancel", command=submitted)
-	btn.place(x=330,y=425,width=80,height=30)
-	C1 = Checkbutton(window, text = "Launch the health check url", variable = CheckVar1, \
+	btn.place(x=210,y=460,width=100,height=30)
+	C1 = Checkbutton(window, text = "Would you like to launch the health check url", variable = CheckVar1, \
                  onvalue = 1, offvalue = 0, height=5, bg='grey', \
-                 width = 20)
-	C1.place(x=148,y=430,width=165,height=15)
-#	C1.grid(column=0, row=14)
+                 width = 50)
+	C1.place(x=200,y=430,width=280,height=15)
 	return CheckVar1.get()
+
+
 def pre_requist():
 	cwd=os.getcwd()
 	dirlist = os.listdir(cwd)
@@ -635,6 +632,6 @@ def main():
 	copy_flyway_conf_to_original()
 	delete_conf_files()
 	if CheckVar1.get() == 1:
-		webbrowser.open('https://'+rmts_url+'/rmts/api')
+		webbrowser.open('https://'+rmts_url+'/ruleexecutor/healthcheck.html')
 if __name__=="__main__":
 	main()
