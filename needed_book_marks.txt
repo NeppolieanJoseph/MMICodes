@@ -1,0 +1,147 @@
+neppoliean.joseph@aspiresys.com
+http://blog.apcelent.com/how-to-setup-microservices-python-zeromq-docker-example.html- For Docker Micro Services
+168201503302
+
+http://rgardler.github.io/2015/07/27/install-docker-and-docker-machine  :for docker-machine
+
+/root/machine-0.12.0/contrib/completion/bash- for Docker-machine-exec
+FZ5X2-DKYE2-H88Tp-3DQZC-YYUG6
+https://www.unixmen.com/install-oracle-virtualbox-and-manage-it-using-phpvirtualbox-on-centos-7-headless-server/ -for virtualbox installation on centos server
+
+http://containertutorials.com/docker-compose.html-Docker Microservices
+
+AWS- JBr]OssNf5oQ
+
+https://kubernetes.io/docs/concepts/containers/images/ - for private container registry
+
+VMware-workstation-full-10.0.7-2844087
+
+https://www.hiroom2.com/centos/centos-7-en/ centos7 severan configuration.
+
+https://www.server-world.info/en/note?os=CentOS_7&p=vmware_player&f=3 - for VT-X/AMD problem in VM ware
+
+Chennai--33667777 / 44455000
+
+https://severalnines.com/blog/installing-kubernetes-cluster-minions-centos7-manage-pods-services - for kubernet configuration.
+
+https://www.tutorialspoint.com/docker/docker_kubernetes_architecture.htm - Docker tutorial points
+
+https://kubernetes.io/docs/getting-started-guides/centos/centos_manual_config/ - kubernete for centos http://www.akashsharma.me/containers/centos-7-install-kubernetes-1.3.html - kubernete for centos 
+
+VVNFUk5BTUU6UEFTU1dPUkQK - auth
+
+https://www.server-world.info/en/note?os=CentOS_7&p=kubernetes&f=3 - All server configuration
+
+https://www.windows-commandline.com/xcopy-command-syntax-examples/#comment-25733 - Xcopy Question..
+
+http://techexposures.com/how-to-copy-files-to-aws-ec2-server-from-windows-pc-command-prompt/ - pscp Copy file to AWS Ec2
+
+GPEDIT.MSC  
+
+https://www.linode.com/docs/applications/configuration-management/creating-your-first-chef-cookbook - Cookbook
+
+https://stackoverflow.com/questions/39034020/pass-cli-arguments-to-chef-client-while-knife-ssh - user input chef-client 
+
+100762759294-----UAN
+BBZPN6258G-------PAN
+
+
+https://syslint.com/blog/tutorial/how-to-install-laravel-php-framework-on-a-centos-7-or-rhel-7/ - laravel PHP 5.5 and above
+
+http://www.yolinux.com/TUTORIALS/LinuxTutorialMySQL.html - Mysql DataBase
+
+https://tutorials.kode-blog.com/laravel-hello-world - Laravel Project Creation.
+
+https://laraveltips.wordpress.com/category/user-login-and-registration/ - Laravel Easy
+
+https://laracasts.com/discuss/channels/laravel/laravel-collective-class-form-not-found?page=1 - form not found in Laravel
+
+https://laravelcollective.com/docs/5.4/html - Drop Down box-Laravel
+
+
+http://javascriptsolution.com/include-js-and-css-file-in-laravel-using-blade/ - CSS in Laravel
+
+
+1419 - Yogesh.
+
+https://examples.javacodegeeks.com/core-java/junit/junit-test-case-example-for-web-application/ - Junit for web APP
+
+https://jwebunit.github.io/jwebunit/ Jwebunit
+
+http://ringtonecutter.com/ - mp3 cutter
+
+http://o7planning.org/en/10285/create-a-simple-java-web-application-using-servlet-jsp-and-jdbc -- Dynamic Web App
+
+https://www.howtoforge.com/tutorial/how-to-install-oracle-database-12c-on-centos-7/ -- oracle on centos 7
+
+payzapp -  1800-102-9426
+
+http://linuxg.net/how-to-install-firefox-37-0-2-on-linux-systems/ - firefox downgrade
+
+https://translate.google.co.in/translate?hl=en&sl=zh-CN&u=http://blog.csdn.net/partner4java/article/details/7095394&prev=search for web unit testings
+
+https://lostechies.com/gabrielschenker/2016/04/30/windows-docker-containers/ --Windows Containers
+
+https://blog.alexellis.io/run-iis-asp-net-on-windows-10-with-docker/-- Windows Containers
+
+
+kevin - 7010502420
+karapakkam 90 942 54798
+anand 99 769 81575
+
+http://www.ntweekly.com/?p=14891
+http://www.ntweekly.com/?p=14925
+
+7 -- 99 418 42642
+
+
+https://medium.com/@marc_best/trigger-a-jenkins-build-from-a-github-push-b922468ef1ae - trigger based on commit github
+
+
+aws:
+Neppoliean
+JBr]OssNf5oQ
+https://awsaspire.signin.aws.amazon.com/console
+AKIAISDM3F2JDLCIWLHQ
+laHVtcu21pTj2AnznpE3K62UgMOrXQmWTTqUUeD6
+
+MySql Temp password:
+kj*uNktgA1we
+
+private IP aws NepJenkins: 172.31.27.228
+
+https://codingbee.net/tutorials/jenkins/jenkins-powershell-create-jenkins-environment-variables-during-a-job-run - ecr deploy error fixing
+
+Motive Details:
+Jenkins
+uname: vveluchamy
+Pss: M0tiveAcc5ssJen$#
+
+Linux Rexs Test Old.
+ssh -p 22022 -i veera3.pem veera3@ec2-52-88-114-148.us-west-2.compute.amazonaws.com
+
+Bit Bucket:
+vveluchamy@motivemi.com
+Feb@2018
+
+aws windows-standalone
+ec2-52-41-154-61.us-west-2.compute.amazonaws.com
+5okYYDNo-Sz5%$rYFmE4pV;MAXAlb(Zd
+
+aws windows rexs
+ec2-52-38-17-99.us-west-2.compute.amazonaws.com
+Q)yr!r=b!KldfZW=NkLZKXU*7vT9V(ft
+
+git@motive.git.beanstalkapp.com:/motive/evidencecareauthoring.git
+
+JENKINS AMI BACKUP:::
+Jenkins1a_20180426
+snap-04993f64a46e3abf4
+
+
+%USERPROFILE%\AppData\Local\Temp
+00:0C:29:40:B3:77
+
+ssh -p22 simmel@localhost
+
+https://stackoverflow.com/questions/38551166/403-access-denied-on-tomcat-8-manager-app-without-prompting-for-user-password/39462403#39462403 -- tomcat remote login problem.
